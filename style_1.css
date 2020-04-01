@@ -1,0 +1,21 @@
+/**{*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
+#fatherbox{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.clearfix{
+    clear: both;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.infoUl li,
+.conUl li{
+    display: inline;
+    margin-right: 1rem;
+}

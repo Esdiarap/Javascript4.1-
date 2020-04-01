@@ -1,0 +1,37 @@
+#fatherbox{
+    width: 90%;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.clearfix{
+    clear: both;
+}
+.infoUl li,
+.conUl li{
+    display: inline;
+    margin-right: 1rem;
+}
+h1{
+    margin: 0;
+    display: block;
+    height: 542px;
+    float: left;
+    padding: 50px;
+    background-color: #bfa;
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 1.5rem;
+}
+span{
+    display: flex;
+    margin-top: 2px;
+}
+.article{
+    float: left;
+}
+#firstH2{
+    margin-top: 0;
+}
